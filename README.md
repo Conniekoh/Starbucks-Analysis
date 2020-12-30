@@ -1,5 +1,5 @@
 # Starbucks - Got Drinks?☕
-## Analysis on Starbucks coffee shop drinks menu
+## Analysis on Starbucks Coffee Shop Drink Menu
 ![](https://stories.starbucks.com/uploads/2019/01/1981-Pike-Place_Exterior_Photo-1-1440x700.jpg)
 
 # Introduction
