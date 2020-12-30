@@ -1,5 +1,5 @@
 # Starbucks - Got Drinks?☕
-## Analysis on Starbucks Coffee Shop Drink Menu
+## Analysis on Starbucks Coffee Shop Drink Menu 
 ![](https://stories.starbucks.com/uploads/2019/01/1981-Pike-Place_Exterior_Photo-1-1440x700.jpg)
 
 # Introduction
@@ -9,7 +9,7 @@ Starbucks coffee shop, first opened its doors in Seattle, WA on March 30, 1971 b
 Find some nutritional facts on each Starbucks drink so that we can compare to our daily recommended sugar and fat consumptions. 
  
 - Data details: https://www.kaggle.com/starbucks/starbucks-menu
-:file_folder: [See my module](link)
+:file_folder: [See my module](https://github.com/Conniekoh/Web-Scrapping/blob/master/codility/How%20to%20Scrap%20News%20Article.ipynb)
 ___
 ## Before Release
 - [x] Finish my changes
