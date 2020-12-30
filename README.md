@@ -9,3 +9,9 @@ Starbucks coffee shop, first opened its doors in Seattle, WA on March 30, 1971 b
 Find some nutritional facts on each Starbucks drink so that we can compare to our daily recommended sugar and fat consumptions. 
  
 - Data details: https://www.kaggle.com/starbucks/starbucks-menu
+:file_folder: [See my module](link)
+___
+## Before Release
+- [x] Finish my changes
+- [x] this is a complete item
+- [ ] this is an incomplete item
