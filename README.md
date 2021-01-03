@@ -1,4 +1,4 @@
-# Starbucks - Got Drinks?☕
+# Starbucks - Got Coffee?☕
 ## Analysis on Starbucks Coffee Shop Drink Menu 
 ![](https://stories.starbucks.com/uploads/2019/01/1981-Pike-Place_Exterior_Photo-1-1440x700.jpg)
 (📷Photo: [Starbucks](https://stories.starbucks.com/stories/2015/store-tour-inside-1912-pike-place-seattle-usa/))
