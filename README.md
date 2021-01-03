@@ -17,11 +17,11 @@ ___
 * Print the DAtatypes of the dataset
 * Remove the duplicates if any
 * Print column names
+
 **3. Data Cleaning**
-
 * Check for the null values in each column
-**4. Questions and Data Visualizations: Using plots to find relations between the features.**
 
+**4. Questions and Data Visualizations: Using plots to find relations between the features.**
 * Plot Beverage_category
 * WordCloud
 * Q1.Which Starbucks drink has the highest calories from the dataset?
