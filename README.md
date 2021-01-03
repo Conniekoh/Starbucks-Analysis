@@ -38,7 +38,7 @@ ___
 
 Data details: https://www.kaggle.com/starbucks/starbucks-menu
 
-:file_folder: [See my module](https://www.kaggle.com/conniekoh/starbucks-got-drinks)
+:file_folder: [See my Kaggle Notebook](https://www.kaggle.com/conniekoh/starbucks-got-drinks)
 ___
 ### Before Release
 - [x] Finish my changes
