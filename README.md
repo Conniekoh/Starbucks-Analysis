@@ -4,11 +4,10 @@
 (📷Photo: [Starbucks](https://stories.starbucks.com/stories/2015/store-tour-inside-1912-pike-place-seattle-usa/))
 
 ## Introduction
-Starbucks coffee shop first opened its doors in Seattle, WA by three students on March 30, 1971 and it has become the biggest coffee chain in the world. Starbucks has over 31,000 stores, includig Starbucks Reserve stores and pickup-only stores. It seems like there is Starbucks on almost every corner in every town (especially in the big cities). Starbucks has variety of drinks menu including signature drinks and seasonal drinks in fall and winter season. Customers can also create customized drinks by adding more espresso shots, syrups, milks, etc. In this notebook, we will try to find some correlation between nutrition contents in each Starbucks drinks.
+Starbucks coffee shop first opened its doors in Seattle, WA by three students on March 30, 1971 and it has become the biggest coffee chain in the world. Starbucks has over 31,000 stores, includig Starbucks Reserve stores and pickup-only stores. It seems like there is Starbucks on almost every corner in every town (especially in the big cities). Starbucks has variety of drinks menu including signature drinks and seasonal drinks during fall and winter season. Customers can also create customized drinks by adding more espresso shots, syrups, milks, etc. Since I am obsessed with coffe, I though it would really interesting to see and anaylse nutrition facts in aech Starbucks drinks from the dataset.  
 
 ## Goal
-Find correlation between nutrition contents of Starbucks drink 
-each Starbucks drinks so that we can compare to our daily recommended sugar and fat consumptions. 
+In this notebook, we will try to find some correlation between nutrition contents in each Starbucks drinks so that we can compare to our daily recommended sugar and fat consumptions. According to American Heart Assocation (AHA) Sugar Recommendation, men should consume no more than 9 teaspoons (36 grams or 150 calories) of added sugar per day. For women, the number is lower: 6 teaspoons (25 grams or 100 calories) per day. [Reference] (https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars#:~:text=The%20American%20Heart%20Association%20(AHA,day%2C%20or%20about%209%20teaspoons.)
 ___
 ### Breakdown of this notebook:
 1. Importing Libraries
