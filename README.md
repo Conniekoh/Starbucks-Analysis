@@ -10,8 +10,8 @@ Starbucks coffee shop first opened its doors in Seattle, WA by three students on
 In this notebook, we will try to find some correlation between nutrition contents in each Starbucks drinks so that we can compare to our daily recommended sugar and fat consumptions. According to American Heart Assocation (AHA) Sugar Recommendation, men should consume no more than 9 teaspoons (36 grams or 150 calories) of added sugar per day. For women, the number is lower: 6 teaspoons (25 grams or 100 calories) per day. [Reference] (https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars#:~:text=The%20American%20Heart%20Association%20(AHA,day%2C%20or%20about%209%20teaspoons.)
 ___
 ### Breakdown of this notebook:
-1. Importing Libraries
-2. Loading the Dataset
+**1. Importing Libraries**
+**2. Loading the Dataset**
 * Load data into a Pandas DataFrame
 * Print the DAtatypes of the dataset
 * Remove the duplicates if any
