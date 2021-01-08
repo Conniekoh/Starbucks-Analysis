@@ -39,7 +39,7 @@ ___
 
 **5. Conclusion**
 
-[1](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars#:~:text=The%20American%20Heart%20Association%20(AHA,day%2C%20or%20about%209%20teaspoons.)
+[1](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars#:~:text=The%20American%20Heart%20Association%20(AHA,day%2C%20or%20about%209%20teaspoons)
 
 
 Data details: https://www.kaggle.com/starbucks/starbucks-menu
