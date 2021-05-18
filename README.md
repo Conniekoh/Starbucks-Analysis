@@ -4,7 +4,7 @@
 (📷Photo: [Starbucks](https://stories.starbucks.com/stories/2015/store-tour-inside-1912-pike-place-seattle-usa/))
 
 ## Introduction
-Starbucks coffee shop first opened its doors in Seattle, WA by three students on March 30, 1971 and it has become the biggest coffee chain in the world. Starbucks has over 31,000 stores, includig Starbucks Reserve stores and pickup-only stores. It seems like there is Starbucks on almost every corner in every town (especially in the big cities). Starbucks has variety of drinks menu including signature drinks and seasonal drinks during fall and winter season. Customers can also create customized drinks by adding more espresso shots, syrups, milks, etc. Since I really like drinking coffee, I though it would really interesting to see and anaylse nutrition facts in aech Starbucks drinks from the dataset. 
+Starbucks coffee shop first opened its doors in Seattle, WA by three students on March 30, 1971 and it has become the biggest coffee chain in the world. Starbucks has over 31,000 stores, includig Starbucks Reserve stores and pickup-only stores. It seems like there are Starbucks stores on almost every corner in every town (especially in the big cities). Starbucks has variety of drinks menu including signature drinks and seasonal drinks during fall and winter season. Customers can also create customized drinks by adding more espresso shots, syrups, milks, etc. Since I really like drinking coffee, I though it would really interesting to see and anaylse nutrition facts in aech Starbucks drinks from the dataset. 
 [Reference](https://www.ahajournals.org/doi/full/10.1161/CIR.0b013e31825c42ee)
 ___
 ## Goal
